@@ -14,3 +14,6 @@ Se utilizo pipenv para entorno virtual.
 
 - correr servicio de fast .
 `pipenv install fastapi uvicorn`
+
+- verificar la documentacion de endpoints (panel parecido a swagger)
+http://127.0.0.1:8000/docs#/
